@@ -7,20 +7,6 @@
       "spaceType": "Apartment",
       "configuration": "1A",
       "apps": {
-        "app1": "0.0.1",
-        "app2": "0.0.2",
-        "app3": "0.0.3"
-      },
-      "drivers": {
-        "drv1": "0.0.1",
-        "drv2": "0.0.2",
-        "drv3": "0.0.3"
-      }
-    },
-    {
-      "spaceType": "Apartment",
-      "configuration": "1B",
-      "apps": {
         "app1": "version",
         "app2": "version",
         "app3": "version"
