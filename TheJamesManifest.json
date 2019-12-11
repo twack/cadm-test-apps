@@ -7,14 +7,14 @@
       "spaceType": "Apartment",
       "configuration": "1A",
       "apps": {
-        "lockstep": "0.0.1",
-        "app2": "0.0.2",
-        "app3": "0.0.3"
+        "test-app-1": "0.0.1",
+        "test-app-2": "0.0.1",
+        "test-app-3": "0.0.1"
       },
       "drivers": {
-        "drv1": "0.0.1",
-        "drv2": "0.0.2",
-        "drv3": "0.0.3"
+        "test-driver-1": "0.0.1",
+        "test-driver-2": "0.0.1",
+        "test-driver-3": "0.0.1"
       }
     },
     {
