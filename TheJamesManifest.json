@@ -9,7 +9,7 @@
       "spaceDescription": "This is the basic description for a type 1A Apartment Space",
       "configuration": "1A",
       "apps": {
-        "test-app-1": "0.0.1",
+        "test-app-1": "0.0.2",
         "test-app-2": "0.0.1",
         "test-app-3": "0.0.1"
       },
