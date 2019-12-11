@@ -5,6 +5,7 @@
   "spaces": [
     {
       "spaceType": "Apartment",
+      "spaceDescription": "This is the basic description for a type 1A Apartment Space",
       "configuration": "1A",
       "apps": {
         "test-app-1": "0.0.1",
@@ -19,6 +20,7 @@
     },
     {
       "spaceType": "Common Area",
+      "spaceDescription": "This is the basic description for a type 1 Common Area Space",
       "configuration": "1",
       "apps": {
         "app1": "version",
