@@ -2,7 +2,7 @@
   "fileName": "TheJamesManifest.json",
   "fileVersion": "0.0.1",
   "buildingName": "theJames",
-  "configApproveDate": "2019-12-09",
+  "configApprovalDate": "2019-12-09",
   "approvedBy": "Todd Wackford",
   "repoBaseUri": "https://raw.githubusercontent.com/twack/cadm-test-apps/master/",
   "spaces": [
